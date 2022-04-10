@@ -35,13 +35,14 @@ There is any kind of video games.
 
 
 
-In Category page we have
-All products that are accessible for purchase. 
+In Category page we have :
 
-There is a cart icon in the header that navigate us to the shopping cart screen. 
+* All products that are accessible for purchase. 
 
-We can see also if there is any special sale's during the week,
-Or any new sales for the future.
+* There is a cart icon in the header that navigate us to the shopping cart screen. 
+
+ * We can see also if there is any special sale's during the week,
+ Or any new sales for the future.
 
 ---------------------------------------------------------
 # video games Details Screen 
