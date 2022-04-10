@@ -14,7 +14,8 @@ All rights reserved – David Shoshan and Shoval Soli.
 Visibility on app screens here :   
 # Home Screen 
 
-![WhatsApp Image 2022-04-10 at 17 40 43 (6)](https://user-images.githubusercontent.com/93192285/162625206-a1b1d46d-68e2-4889-8202-09989c78a51a.jpeg)
+![מסך פתיחה](https://user-images.githubusercontent.com/93192285/162625461-feb2a587-f504-4343-9af2-753a28b9969e.jpeg)
+
 
 
 
