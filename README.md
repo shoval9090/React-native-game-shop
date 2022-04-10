@@ -11,11 +11,11 @@ Develop by me and my friend as a final project.
 
 All rights reserved – David Shoshan and Shoval Soli.
 
-Visibility on app screens here :   
+Visibility on app screens here :  
+
 # Home Screen 
 
-![מסך פתיחה](https://user-images.githubusercontent.com/93192285/162625461-feb2a587-f504-4343-9af2-753a28b9969e.jpeg)
-
+ ![category_button_1](https://user-images.githubusercontent.com/93195038/162632993-77315b8f-3781-4256-bd00-78c16b90e405.jpg)
 
 
 
@@ -30,10 +30,8 @@ There is any kind of video games.
 ---------------------------------------------------------
 # Category Screen 
 
-![מסך קטגוריה ספורט](https://user-images.githubusercontent.com/93192285/162625512-6b4863d8-f760-472d-ab79-21c55c97d07a.jpeg)
 
-
-![מסך קטגוריה נוסף](https://user-images.githubusercontent.com/93192285/162625524-e8176b82-6cf1-4f6a-a672-6280ac23aa93.jpeg)
+![search_bar_word](https://user-images.githubusercontent.com/93195038/162633007-6c08f818-ff68-45d5-a695-72507efb4876.jpg)
 
 
 
@@ -48,8 +46,9 @@ Or any new sales for the future.
 ---------------------------------------------------------
 # video games Details Screen 
 
-![מסך פירוט + דירוג המשחק](https://user-images.githubusercontent.com/93192285/162625569-e402b15e-b83a-40a3-8442-cbc2df1f8a52.jpeg)
 
+![product_info](https://user-images.githubusercontent.com/93195038/162633019-df52dc85-31ff-4e5a-8f43-9b410b21e31c.jpg)
+![product_info_2](https://user-images.githubusercontent.com/93195038/162633025-de5878b9-576b-46d4-95b4-e81e3fa19e4b.jpg)
 
 
 •	We can see if the video games is readily available OR NOT
@@ -69,7 +68,7 @@ Or any new sales for the future.
 ---------------------------------------------------------
 # Shopping Cart Screen 
 
-![מסך עגלת קניות](https://user-images.githubusercontent.com/93192285/162625710-49ff4087-e675-45f8-93e2-bb3529fc7622.jpeg)
+![myCart](https://user-images.githubusercontent.com/93195038/162633037-2c209726-1701-4c43-9282-2a987495d09e.jpg)
 
 
 On this page we have a list with all the video games we add to the cart,
@@ -92,10 +91,9 @@ By clicking the button, you will move to the payment screen
 ---------------------------------------------------------
 # Payment Screen 
 
-![מסך אמצעי תשלום](https://user-images.githubusercontent.com/93192285/162625804-2734c31f-ae6b-4dac-9d5a-67c7571f2a4c.jpeg)
+![payment](https://user-images.githubusercontent.com/93195038/162633058-6ba28833-f376-419c-b875-7827716a642e.jpg)
 
 
-![מסך אמצעי תשלום 2](https://user-images.githubusercontent.com/93192285/162625811-ac8ef036-0ef7-4754-8086-c75339c5c405.jpeg)
 
 
 
@@ -106,4 +104,9 @@ On this screen we can see all the product details and the payment details before
 •	Payment Details (Owner Card details, ID Number, Credit Card Number, CVV, Card validity).
 
 •	We did a Validation testing , witch means that if DO NOT give the correct details you cannot  access to the next page .
+
+
+# success Screen 
+
+![success](https://user-images.githubusercontent.com/93195038/162633074-5445d149-f54b-4fb1-b1d4-7deb2ebe59f8.jpg)
 
