@@ -7,21 +7,21 @@ Project in React-native course.
 
 This Application offers both online shop and service for many video games category.
 
-Develop by me and my friends as a final project. 
+Develop by me and my friend as a final project. 
 
 All rights reserved – David Shoshan and Shoval Soli.
 
 Visibility on app screens here :   
 # Home Screen 
 
+![WhatsApp Image 2022-04-10 at 17 40 43 (6)](https://user-images.githubusercontent.com/93192285/162625206-a1b1d46d-68e2-4889-8202-09989c78a51a.jpeg)
 
-<img width="193" alt="home1" src="https://user-images.githubusercontent.com/93192285/154842221-bcc08e38-e9cd-4d5c-887f-1ae672eae1f1.png">
-<img width="190" alt="home2" src="https://user-images.githubusercontent.com/93192285/154842289-bc855482-7e83-4810-8116-bbaeb9b84fa8.png">
 
-On this page we can see all the optional shoes for online order. 
 
-There is any kind of Nike shoes.
-* In any category of shoe, you will navigate to the specific category by clicking
+On this page we can see all the optional video games for online order. 
+
+There is any kind of video games.
+* In any category of video games, you will navigate to the specific category by clicking
  and add it to the cart if you like to buy.
 * There is cart icon in the header of the app, by click on it you will navigate to the shopping cart in our app.
 * On the left side in the header we have a bucket icon to delete the product that you don’t want any more .
@@ -29,7 +29,6 @@ There is any kind of Nike shoes.
 ---------------------------------------------------------
 # Category Screen 
 
-<img width="203" alt="catgoryPage1" src="https://user-images.githubusercontent.com/93192285/154842501-7c9b0488-d15f-4d10-bd71-c8bf23bac7e9.png">
 
 In Category page we have
 All products that are accessible for purchase. 
